@@ -172,7 +172,7 @@ export default function TriviaApp() {
       <div className="min-h-screen bg-gradient-to-br from-blue-100 to-purple-100 p-4 sm:p-8 flex items-center justify-center">
         <Card className="w-full max-w-md bg-white/80 backdrop-blur-sm shadow-xl">
           <CardHeader>
-            <CardTitle className="text-3xl text-center text-blue-800 font-bold">Trivia de Enfermería</CardTitle>
+            <CardTitle className="text-3xl text-center text-blue-800 font-bold">Trivia de Veterinaria</CardTitle>
           </CardHeader>
           <CardContent className="space-y-6">
             <Button
